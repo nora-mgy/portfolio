@@ -308,7 +308,7 @@ section{ padding: 64px 0; }
   font-weight:600; color: var(--ink); text-decoration:none; border-bottom: 2px solid var(--accent);
   padding-bottom: 3px;
 }
-.contact-links{ display:flex; gap:12px; flex-wrap:wrap; margin-top: 20px; }
+.contact-links{ display:flex; gap:16px; flex-wrap:wrap; margin-top: 36px; }
 .contact-links .btn{ gap:8px; }
 .footer-note{ margin-top: 40px; padding-top: 20px; border-top:1px solid var(--line); font-size: 13px; color: var(--ink-soft); }
 
